@@ -1,2 +1,2 @@
 # career_aspiration_of_Gen_Z_SQL
-This database management system project provides valuable insights into the career choices and ambitions of the youngest generation in the workforce. 
+This database management system project provides valuable insights into the career choices and ambitions of the youngest generation in the workforce. By leveraging SQL queries and database management techniques, I analyze and visualize data related to Gen Z's career preferences, industries of interest, geographic preferences, and more. This project serves as a comprehensive resource for understanding the evolving landscape of career aspirations among today's youth, offering data-driven perspectives on the paths they are forging in the professional world. 
